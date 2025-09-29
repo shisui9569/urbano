@@ -623,7 +623,7 @@ nav ul li a:hover {
 }
 
 .benefits-list li:before {
-    content: "\f00c";
+    
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
     color: var(--accent);
@@ -1570,4 +1570,5 @@ footer {
 .usuario span {
     font-size: 0.9rem;
     color: #777;
+
 }
